@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880277090129",
+    "project_id": "kt-baru",
+    "storage_bucket": "kt-baru.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880277090129:android:ae62094d3d7c41a726ed70",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DOh-XuYvEjUmjQO2JdlUYqaFavb7HLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
